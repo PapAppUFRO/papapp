@@ -123,7 +123,6 @@
     <Component class="javax.swing.JButton" name="jButton5">
       <Properties>
         <Property name="text" type="java.lang.String" value="Enviar mensaje"/>
-        <Property name="actionCommand" type="java.lang.String" value="Enviar mensaje"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>

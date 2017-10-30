@@ -176,15 +176,15 @@ public class Login extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        if(jTextField2.getText()=="profesor"){
-            MenuProfesor IngresoProfe = new MenuProfesor();
+        //if(jTextField2.getText()=="profesor"){
+            Profesor IngresoProfe = new Profesor();
             this.setVisible(false);
             IngresoProfe.setVisible(true);
-        }else if(jTextField2.getText()=="apoderado"){
-            MenuApoderado IngresoApoderado = new MenuApoderado();
-            this.setVisible(false);
-            IngresoApoderado.setVisible(true);
-        }
+        //}else if(jTextField2.getText()=="apoderado"){
+        //    MenuApoderado IngresoApoderado = new MenuApoderado();
+        //    this.setVisible(false);
+        //    IngresoApoderado.setVisible(true);
+        //}
         
     }//GEN-LAST:event_jButton2ActionPerformed
 

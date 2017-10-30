@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package chris.jframes;
+import javax.swing.JOptionPane;
 
 /**
  *
@@ -153,11 +154,16 @@ public class RedactarMensaje extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        // TODO add your handling code here:
+        Profesor IngresoProfe = new Profesor();
+        this.setVisible(false);
+        IngresoProfe.setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
-        // TODO add your handling code here:
+        JOptionPane.showMessageDialog(null, "Su mensaje ha sido enviado exitosamente.");
+        Profesor IngresoProfe = new Profesor();
+        this.setVisible(false);
+        IngresoProfe.setVisible(true);
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox1ActionPerformed
