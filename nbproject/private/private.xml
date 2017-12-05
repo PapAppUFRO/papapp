@@ -3,12 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/fazunigan/Desktop/Codigo/Mensajeria/src/chris/jframes/Apoderado.java</file>
-            <file>file:/Users/fazunigan/Desktop/Codigo/Mensajeria/src/chris/jframes/Main.java</file>
-            <file>file:/Users/fazunigan/Desktop/Codigo/Mensajeria/src/chris/jframes/Persona.java</file>
-            <file>file:/Users/fazunigan/Desktop/Codigo/Mensajeria/src/chris/jframes/Profesor.java</file>
-            <file>file:/Users/fazunigan/Desktop/Codigo/Mensajeria/src/chris/jframes/Login.java</file>
-            <file>file:/Users/fazunigan/Desktop/Codigo/Mensajeria/src/chris/jframes/NewInterface.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/guiLogin.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/Leer.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/EliminarArchivo.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/guiProfesor.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/guiApoderado.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/Main.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/Profesor.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/Escribir.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/Apoderado.java</file>
+            <file>file:/D:/ProyectosNetBeans/Mensajeria/src/Login.java</file>
         </group>
     </open-files>
 </project-private>
